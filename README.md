@@ -1,6 +1,6 @@
 # 截屏 OCR 翻译工具 基于DeepSeek API
 
-基于tesseract OCR + DeepSeek API 作为翻译接口的中英互译翻译工具
+基于tesseract OCR + DeepSeek API 作为翻译接口的中英互译翻译工具（logo为个人OC之一）
 
  <img width="676" height="400" src="https://raw.githubusercontent.com/UltimatePrism/OCR-Translate/refs/heads/main/view.png" /> 
 
