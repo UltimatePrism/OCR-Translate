@@ -1,0 +1,5 @@
+requests
+pytesseract
+Pillow
+PyQt5
+keyboard
