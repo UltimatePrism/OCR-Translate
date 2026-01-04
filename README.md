@@ -6,12 +6,11 @@
 
 ## 功能简介
 
----
-
 - 全局快捷键截图（默认 Ctrl + D）
 - 鼠标框选屏幕区域
 - Tesseract OCR 文字识别
 - 以 DeepSeek API 进行中英互译
+
 
 ## 注意
 
@@ -29,15 +28,11 @@
 
 ## 运行环境
 
----
-
 Python 3.8 及以上（推荐 3.9 / 3.10）
 
 
 
 ## 依赖安装
-
----
 
 安装命令：
 
@@ -55,8 +50,6 @@ pip install requests pytesseract Pillow PyQt5 keyboard
 
 ## Tesseract OCR
 
----
-
 默认安装路径示例：
 
 ~~~
@@ -72,8 +65,6 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tessera
 
 
 ## DeepSeek API 配置
-
----
 
 默认接口地址：
 
@@ -95,8 +86,6 @@ config.json
 
 
 ## 使用方法
-
----
 
 启动程序：
 
