@@ -2,7 +2,7 @@
 
 基于tesseract OCR + DeepSeek API 作为翻译接口的中英互译翻译工具
 
- <img width="401" height="276" src="https://raw.githubusercontent.com/UltimatePrism/OCR-Translate/refs/heads/main/view.png" /> 
+ <img width="676" height="400" src="https://raw.githubusercontent.com/UltimatePrism/OCR-Translate/refs/heads/main/view.png" /> 
 
 
 ## 功能简介
